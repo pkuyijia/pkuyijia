@@ -7,4 +7,4 @@ Math undergrad at Peking University interested in Math, CS and Quant finance.
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-Learn more about me at [my personal website](https://me.jyi2002.com)!
+Learn more about me at [my personal website](https://pkuyijia.github.io)!
