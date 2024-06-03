@@ -8,3 +8,5 @@ Math undergrad at Peking University interested in Math, CS and Quant finance.
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 Learn more about me at [my personal website](https://pkuyijia.github.io)!
+
+![](https://github-readme-stats.vercel.app/api?username=pkuyijia&show_icons=true)
