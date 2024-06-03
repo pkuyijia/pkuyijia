@@ -9,4 +9,3 @@ Math undergrad at Peking University interested in Math, CS and Quant finance.
 
 Learn more about me at [my personal website](https://pkuyijia.github.io)!
 
-![](https://github-readme-stats.vercel.app/api?username=pkuyijia&show_icons=true)
